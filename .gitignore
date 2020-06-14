@@ -1,0 +1,18 @@
+cmake-build-debug
+test
+.idea
+test_bin
+bin
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+
+# gtest suite
+googletest-src
+googletest-download
+googletest-build
+bitcask.cbp
+
+# lib
+lib
